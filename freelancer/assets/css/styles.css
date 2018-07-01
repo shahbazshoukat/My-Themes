@@ -1,0 +1,78 @@
+.icon-size{
+  font-size:40px;
+  margin-left:5px;
+  color:white;
+}
+
+@media (max-width:767px) {
+  .icon-size{
+    font-size:25px;
+    margin-left:5px;
+    color:white;
+  }
+}
+
+.about-me{
+  font-size:20px;
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.fr-footer{
+  background-color:#404040;
+  margin-top:50px;
+  color:white;
+}
+
+.fr-nav{
+  color:white;
+  font-size:20px;
+  color:white;
+  background:#212121;
+}
+
+.portfolio{
+  margin-top:50px;
+  padding:40px;
+}
+
+.about-h{
+  color:white;
+  font-size:60px;
+}
+
+icon-p{
+  font-size:100px;
+}
+
+.icon-p{
+  font-size:40px;
+}
+
+.hr-row{
+  max-width:600px;
+}
+
+.sub-btn{
+  background-color:#00d0b0;
+  background:#00d0b0;
+}
+
+.fr-row{
+  margin-bottom:50px;
+}
+
+.fr-btm-row{
+  background:#212121;
+  height:50px;
+}
+
+.fr-navbar:active{
+  background:#00d0b0;
+}
+
+.fr-nav > li > a:hover{
+  background-color:red;
+}
+

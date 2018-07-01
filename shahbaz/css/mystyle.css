@@ -1,0 +1,44 @@
+
+
+
+.custom-outer{
+	transform:skewY(-4deg) translateY(-230px);
+}
+.custom-inner{
+	transform:skewY(4deg) ;
+	
+}
+
+
+.services-sec{
+	background:white;
+	margin-top:-150px;
+}
+@media (max-width:767px){
+.services-sec{
+	background:white;
+	margin-top:-100px;
+}	
+}
+.about-sec{
+	background:white;
+}
+
+.header-btn{
+	border:3px solid;
+	border-radius:15px;
+	border-color:#0ad587;
+	background-color:#0ad587;
+	color:white;
+}
+.header-btn:hover{
+	border:3px solid;
+	border-radius:15px;
+	border-color:#0ad587;
+	background-color:transparent;
+	color:#0ad587;
+	
+}
+.intro-h{
+	color:#oad587;
+}

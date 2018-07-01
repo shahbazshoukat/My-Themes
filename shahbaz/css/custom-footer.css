@@ -1,0 +1,49 @@
+.social{
+  font-size:30px;
+}
+
+.social-link{
+  margin-left:30px;
+
+}
+.social-icon:hover{
+  color:blue;
+
+}
+.my-text{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.contact-sec{
+  color:white;
+}
+
+.contact-custom{
+  padding-top:30px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-bottom:20px;
+}
+
+@media (max-width:767px) {
+  .contact-custom{
+    padding:50px 50px;
+  }
+}
+.btm-row{
+	color:white;
+	background:#08B271;
+	height:50px;
+}
+.social-row{
+  margin-top:40px;
+font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.social-icon{
+  color:white;
+}
+
+.social-icon:hover{
+  color:#003bda;
+
+}

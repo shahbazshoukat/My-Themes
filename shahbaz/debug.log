@@ -1,0 +1,2 @@
+[0703/152228:ERROR:gpu_process_transport_factory.cc(628)] Lost UI shared context.
+[0703/152228:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
